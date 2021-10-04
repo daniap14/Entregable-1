@@ -1,0 +1,6 @@
+He usado el cubo para la cabeza
+Una esfera para el ojo y otra para el cuerpo
+El cilindro para el pelo
+Las capsulas son flotantes con el material transparente
+Las texturas para el cuerpo y cabeza
+El color albedo para los ojos y el pelo
